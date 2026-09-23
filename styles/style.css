@@ -4,7 +4,7 @@ header {
   align-items: center;
   padding: 92px 50px 96px;
 }
-
+/* Это комментарий */
 .header__logo {
   display: block;
   width: 148px;
