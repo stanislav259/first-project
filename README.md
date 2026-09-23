@@ -1,1 +1,1 @@
-https://stanislav259.github.io/first-project/
+https://github.com/stanislav259/first-project
